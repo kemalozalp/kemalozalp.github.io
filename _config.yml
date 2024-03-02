@@ -21,7 +21,7 @@ repository               : "kemalozalp/kemalozalp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
 # Biographic information
-  avatar           : "profile.png"
+   avatar           : "profile.png"
   name             : "Kemal Ozalp, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Drug Discovery Data Scientist"
