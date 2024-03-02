@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist with +1-year postdoc experience at a growing drug discovery start-up. During my postdoc, I developed and implemented state-of-the-art machine learning (ML) and deep learning (DL) models to the company's drug discovery pipeline. I used these models for early drug discovery, specifically for hit-identification and in low-data problems.
+I am a data scientist with +1-year experience in drug discovery at a growing start-up. During my postdoc, I developed and implemented state-of-the-art machine learning (ML) and deep learning (DL) models to the company's drug discovery pipeline. I used these models for ADMET modeling and early drug discovery of small and large molecules, specifically for hit-identification and in low-data conditions. Additionally, I spearheaded developing a data science experimentation pipeline using Data Version Control (DVC).
+
+I use Python and its libraries, such as scikit-learn and PyTorch, for ML and DL model development; RDKit and Chembl Structure Pipeline for cheminformatic; SQL for data extraction from databases, such as ChEBML; and Git, DVC and Docker for MLOps. I used AWS for some personal projects, specifically RDS, Lambda and EC2 services.
+
+My goal is to become a full stack data scientist and one of the top voices in the drug development field.
 
 A data-driven personal website
 ======
