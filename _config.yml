@@ -20,8 +20,8 @@ repository               : "kemalozalp/kemalozalp.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "./images/profile.png"
+# Biographic information
+  avatar           : "profile.png"
   name             : "Kemal Ozalp, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Drug Discovery Data Scientist"
