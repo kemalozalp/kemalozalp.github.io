@@ -13,20 +13,15 @@ I use Python and its libraries, such as scikit-learn and PyTorch, for ML and DL 
 
 My goal is to become a full stack data scientist and one of the top voices in the drug development field.
 
-A data-driven personal website
+Academic Background
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I received my Ph.D. in Biology from the University of North Carolina at Chapel Hill in December 2022. In my doctorate, I worked with Dr. Laura Miller who is now a professor of mathematics at the University of Arizona. In my doctorate, I investigated the movement of saltwater plankton at different spatial scales using statistical modeling, computational, and experimental fluid dynamics. During my master's studies, I developed a conceptual underwater vehicle inspired by squid propulsion. I received my masters in Marine Technology from Istanbul Technical University in 2014. Before my passion for biology, I studied Naval Architecture Engineering at Yildiz Technical University and received my bachelor's degree in 2010.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Why Data Science and Drug Discovery
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My academic background is often a conversation piece. It is a great story, and I enjoy talking about it. I would be happy to discuss it with you, as well. Briefly, I began questioning why most man-made marine vehicles utilize propellers. Nature offers a wide variety of solutions, including cilia, rowing propulsion, flapping, and metachronal swimming. Problems and solutions found in natural systems are intellectually much more appealing to me than those in man-made systems. That being said, academia primarily focuses on knowledge generation but less on problem-solving. Perhaps because I got the engineering bug in my undergraduate, I decided to channel my energy into solving real-life problems rather than merely investigating intellectually appealing natural mysteries.
+
+I have started coding in Matlab during my undergraduate. In my master's, I switched to Fortran for scientific computing. In my Ph.D., I used Matlab and Python in my thesis. Also, during my Ph.D., I began collecting data and analyzing it for finding the behavioral patterns of plankton. It was almost like a detective job. Finding connections between the movement behavior of plankton and their evolutionary past... This experience led me to develop a passion for data science. My transition to drug development occured after I completed an internship at a drug discovery start-up in 2022. It became clear to me after that moment that I wanted to utilize my skills to solve problems in the pharmaceutical industry.
 
 Site-wide configuration
 ------
