@@ -15,7 +15,7 @@ My goal is to become a full stack data scientist and one of the top voices in th
 
 Academic Background
 ======
-I received my Ph.D. in Biology from the University of North Carolina at Chapel Hill in December 2022. In my doctorate, I worked with [Dr. Laura Miller](https://sites.google.com/site/swimflypump/people/LauraMiller?authuser=0) who is now a professor of mathematics at the University of Arizona. In my doctorate, I investigated the movement of saltwater plankton at different spatial scales using statistical modeling, computational, and experimental fluid dynamics. During my master's studies, I developed a conceptual underwater vehicle inspired by squid propulsion. I received my masters in Marine Technology from Istanbul Technical University in 2014. Before my passion for biology, I studied Naval Architecture Engineering at Yildiz Technical University and received my bachelor's degree in 2010.
+I received my Ph.D. in Biology from the University of North Carolina at Chapel Hill in December 2022. In my doctorate, I worked with [Dr. Laura Miller](https://sites.google.com/site/swimflypump/people/LauraMiller?authuser=0){:target="_blank"} who is now a professor of mathematics at the University of Arizona. In my doctorate, I investigated the movement of saltwater plankton at different spatial scales using statistical modeling, computational, and experimental fluid dynamics. During my master's studies, I developed a conceptual underwater vehicle inspired by squid propulsion. I received my masters in Marine Technology from Istanbul Technical University in 2014. Before my passion for biology, I studied Naval Architecture Engineering at Yildiz Technical University and received my bachelor's degree in 2010.
 
 Why Data Science and Drug Discovery
 ======
