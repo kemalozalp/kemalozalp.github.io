@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biology, The University of North Carolina at Chapel Hill, 2017 - 2022
+* M.S. in Marine Technology, Istanbul Technical University, 2012 - 2014
+* B.S. in Naval Architecture Engineering (Exchange), University of Applied Sciences Kiel, 2008-2009
+* B.S. in Naval Architecture Engineering, Yildiz Technical University, 2005-2010
 
 Work experience
 ======
