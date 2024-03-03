@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* __Ph.D in Biology__, The University of North Carolina at Chapel Hill                          2017 - 2022
+* __Ph.D in Biology__, The University of North Carolina at Chapel Hill &emsp; &emsp;2017 - 2022
 * __M.S. in Marine Technology__, Istanbul Technical University                                  2012 - 2014
 * __B.S. in Naval Architecture Engineering (exchange)__, University of Applied Sciences Kiel    2008 - 2009
 * __B.S. in Naval Architecture Engineering__, Yildiz Technical University                       2005 - 2010
