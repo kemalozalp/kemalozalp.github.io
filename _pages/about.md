@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Professinal Summary"
+title: "Professional Summary"
 author_profile: true
 redirect_from: 
   - /about/
