@@ -43,12 +43,11 @@ _Ph.D. Research Assistant_
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __Programming:__ Python, SQL, Unix shell, SLURM
+* __MLOps:__ Git, Data Version Control (DVC), Docker
+* __ML/AI:__ PyTorch, scikit_learn, dgl, dgllife
+* __Cheminformatics:__ RDKit, Chembl Structure Library
+* __Drug Development:__ ADMET modeling, small and large molecule drug discovery, hit-identification, virtual screening
 
 Publications
 ======
