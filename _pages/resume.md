@@ -34,10 +34,10 @@ _Data Science Intern_
   * Gave a presentation summarizing the progress made to project collaborators and CEO
 
 
-* __The University of North Carolina at Chapel Hill__ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Aug 2017 - Dec 2022\
+* __The University of North Carolina at Chapel Hill__ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;Aug 2017 - Dec 2022\
 _Ph.D. Research Assistant_
   * Collected positional data on animals using computer vision systems; analyzed the positional data statistically and estimated distributions (MLE); analyzed behavior from the evolutionary perspective; paper in submission
-  * Collected kinematics data on animals; ran CFD simulations on supercomputer; research became a thesis chapter
+  * Collected kinematics data on animals; ran CFD simulations on HPC; research became a thesis chapter
   * Performed fluid dynamics experiments on plankton dispersal; performed CFD; published peer-reviewed paper
   * Spearheaded two collaborative research projects and mentored 9 undergraduate students
   
