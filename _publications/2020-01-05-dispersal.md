@@ -2,10 +2,10 @@
 title: "Experiments and agent-based models of zooplankton movement within complex flow environments"
 collection: publications
 permalink: /publication/2020-01-05-dispersal
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Paper on plankton dispersal within complex flow environments'
 date: 2020-01-05
 venue: 'Biomimetics'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://kemalozalp.github.io/files/dispersal.pdf'
 citation: 'Ozalp, M.K. (2020). &quot;Experiments and agent-based models of zooplankton movement within complex flow environments.&quot; <i>Biomimetics</i>. 5(1).'
 ---
 
