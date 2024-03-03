@@ -26,15 +26,17 @@ Work experience
   * Implemented DVC for data science experimentation and data versioning to the company’s ML pipeline
   * Wrote one first-author and one co-author, peer-reviewed papers in top tier journals
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* __Collaborations Pharmaceuticals__ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;May - June 2022
+  * Analyzed a small dataset and explored various data manipulation techniques to improve models’ performances
+  * Built a multivariate machine learning and deep learning model to predict dose response curves of compounds on different targets
+  * Gave a presentation summarizing the progress made to project collaborators and CEO
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* __The University of North Carolina at Chapel Hill__ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Aug 2017 - Dec 2022
+  * Collected positional data on animals using computer vision systems; analyzed the positional data statistically and estimated distributions (MLE); analyzed behavior from the evolutionary perspective; paper in submission
+  * Collected kinematics data on animals; ran CFD simulations on supercomputer; research became a thesis chapter
+  * Performed fluid dynamics experiments on plankton dispersal; performed CFD; published peer-reviewed paper
+  * Spearheaded two collaborative research projects and mentored 9 undergraduate students
   
 Skills
 ======
