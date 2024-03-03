@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* __Ph.D in Biology__, The University of North Carolina at Chapel Hill &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;2017 - 2022
-* __M.S. in Marine Technology__, Istanbul Technical University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;2012 - 2014
-* __B.S. in Naval Architecture Engineering__, University of Applied Sciences Kiel &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;2008 - 2009
-* __B.S. in Naval Architecture Engineering__, Yildiz Technical University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2005 - 2010
+* __Ph.D__ _in Biology_, The University of North Carolina at Chapel Hill &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;2017 - 2022
+* __M.S.__ _in Marine Technology_, Istanbul Technical University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;2012 - 2014
+* __B.S.__ _in Naval Architecture Engineering_, University of Applied Sciences Kiel &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;2008 - 2009
+* __B.S.__ _in Naval Architecture Engineering_, Yildiz Technical University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2005 - 2010
 
 Work experience
 ======
