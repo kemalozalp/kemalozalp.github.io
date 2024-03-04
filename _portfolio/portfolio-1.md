@@ -1,6 +1,6 @@
 ---
 title: "A Binary Contrastive Learning Encoder"
-excerpt: "A Binary Contrastive Learning Encoder inspired by Google's Supervised Contrastive Learning model 1<br/><img src='/images/contrastive_loss_500px.png'>"
+excerpt: "A Binary Contrastive Learning Encoder inspired by Google's Supervised Contrastive Learning model<br/><img src='/images/contrastive_loss_500px.png'>"
 collection: portfolio
 ---
 
