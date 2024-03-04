@@ -49,6 +49,17 @@ Skills
 * __Cheminformatics:__ RDKit, Chembl Structure Library
 * __Drug Development:__ ADMET modeling, small and large molecule drug discovery, hit-identification, virtual screening
 
+Awards
+======
+* Quick Thinking Award | Collaboration Pharmaceuticals
+_For extinguishing fire at the workplace and saving company assets_
+* ARPA Graduate Degree Completion Grant ($8,000) | UNC at Chapel Hill
+_Toward running experiments for a thesis chapter_
+* L. I. Gilbert Grant ($1,500) | UNC at Chapel Hill
+_To attend “Computational Principles to Organize Complexity” Summer School_
+* Vehbi Koc Foundation Research Grant ($2,500) | Istanbul Technical University
+_Toward the conceptual design of a pulsed-jet underwater vehicle inspired by squids_
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -69,4 +80,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* _Volunteer_ at [Table NC](https://tablenc.org/who-we-are/){:target='_blank'}, a non-profit organization which delivers healthy food and nutrition education to children in Orange County, NC.
