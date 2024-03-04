@@ -6,7 +6,7 @@ excerpt: "Paper on using sequential contrastive and deep learning models to iden
 date: 2024-06-01
 venue: 'Journal of Chemical Information and Modeling'
 paperurl: 
-citation: 'Ozalp, M.K. (2024). &quot;Sequential Contrastive and Deep Learning Models to Identify Selective Butyrylcholinesterase Inhibitors.&quot; <i>Journal of Chemical Information and Modeling</i>. 1(3).'
+citation: 'Ozalp, M.K. et. al. (2024). &quot;Sequential Contrastive and Deep Learning Models to Identify Selective Butyrylcholinesterase Inhibitors.&quot; <i>Journal of Chemical Information and Modeling</i>. 1(3).'
 ---
 
 Accepted to the _'Journal of Chemical Information and Modeling'_ with minor revisions.
