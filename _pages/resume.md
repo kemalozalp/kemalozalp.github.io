@@ -51,13 +51,13 @@ Skills
 
 Awards
 ======
-* Quick Thinking Award | Collaboration Pharmaceuticals\
+* __Quick Thinking Award__ | Collaboration Pharmaceuticals\
 _For extinguishing fire at the workplace and saving company assets_
-* ARPA Graduate Degree Completion Grant ($8,000) | UNC at Chapel Hill\
+* __ARPA Graduate Degree Completion Grant ($8,000)__ | UNC at Chapel Hill\
 _Toward running experiments for a thesis chapter_
-* L. I. Gilbert Grant ($1,500) | UNC at Chapel Hill\
+* __L. I. Gilbert Grant ($1,500)__ | UNC at Chapel Hill\
 _To attend “Computational Principles to Organize Complexity” Summer School_
-* Vehbi Koc Foundation Research Grant ($2,500) | Istanbul Technical University\
+* __Vehbi Koc Foundation Research Grant ($2,500)__ | Istanbul Technical University\
 _Toward the conceptual design of a pulsed-jet underwater vehicle inspired by squids_
 
 Publications
