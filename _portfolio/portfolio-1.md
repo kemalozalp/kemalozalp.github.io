@@ -9,4 +9,4 @@ A contrastive learning encoder inspired by Google's "Supervised Contrastive Lear
 Unsupervised Contrastive Learning: http://proceedings.mlr.press/v119/chen20j/chen20j.pdf
 Supervised Contrastive Learning: https://proceedings.neurips.cc/paper_files/paper/2020/file/d89a66c7c80a29b1bdbab0f2a1a94af8-Paper.pdf
 
-The gist of this application is that I changed the contrastive learning loss to learn the positive class rather than learning all classes.
+The gist of this application is that I changed the contrastive learning loss to learn the positive class rather than learning all classes. Please redirect to my Github repo from the [link](https://github.com/kemalozalp/binary-contrastive-learning){:target='_blank'}.
