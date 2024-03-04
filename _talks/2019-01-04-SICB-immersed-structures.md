@@ -3,7 +3,7 @@ title: "The Effect of Immersed Structures on Zooplankton Swimming"
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/2019-01-04-SICB-immersed-structures
-venue: ""Society of Integrative and Comparative Biology (SICB) 2019"
+venue: "Society of Integrative and Comparative Biology (SICB) 2019"
 date: 2019-01-04
 location: "Tampa, FL"
 ---
