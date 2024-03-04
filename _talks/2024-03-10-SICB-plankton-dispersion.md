@@ -1,7 +1,7 @@
 ---
 title: "Plankton dispersion through vegetative seabed within complex flow environments"
 collection: talks
-type: "Talk"
+type: "Conference Proceeding Talk"
 permalink: /talks/2020-01-04-SICB-plankton-dispersion
 venue: "Society of Integrative and Comparative Biology (SICB) 2020"
 date: 2020-01-04
