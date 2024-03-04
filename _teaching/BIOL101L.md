@@ -4,7 +4,7 @@ collection: teaching
 type: "Lab"
 permalink: /teaching/BIOL101L
 venue: "The University of North Carolina at Chapel Hill, Department of Biology"
-date: 2017-08-022
+date: 2017-08-22
 location: "Chapel Hill, NC"
 ---
 
