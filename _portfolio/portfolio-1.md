@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Binary Contrastive Learning Encoder"
+excerpt: "A Binary Contrastive Learning Encoder inspired by Google's Supervised Contrastive Learning model 1<br/><img src='/images/contrastive_loss.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A contrastive learning encoder inspired by Google's "Supervised Contrastive Learning" paper. I used the two papers from Google below:
+
+Unsupervised Contrastive Learning: http://proceedings.mlr.press/v119/chen20j/chen20j.pdf
+Supervised Contrastive Learning: https://proceedings.neurips.cc/paper_files/paper/2020/file/d89a66c7c80a29b1bdbab0f2a1a94af8-Paper.pdf
+
+The gist of this application is that I changed the contrastive learning loss to learn the positive class rather than learning all classes.
