@@ -1,6 +1,6 @@
 ---
 title: "Dockerized SQL Database"
-excerpt: "Created and containerized a SQL database using Docker<br/><img src='/images/hackerrank-sql.png'>"
+excerpt: "Created and containerized a SQL database using Docker<br/><img src='/images/dockerized-sql-database.png'>"
 collection: portfolio
 ---
 
