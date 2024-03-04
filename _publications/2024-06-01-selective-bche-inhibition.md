@@ -1,7 +1,7 @@
 ---
 title: "Sequential Contrastive and Deep Learning Models to Identify Selective Butyrylcholinesterase Inhibitors"
 collection: publications
-permalink: 
+permalink: /publication/2024-06-01-selective-bche-inhibition
 excerpt: "Paper on using sequential contrastive and deep learning models to identify selective BChE inhibitors for the therapeutic treatment of Alzheimer's Disease"
 date: 2024-06-01
 venue: 'Journal of Chemical Information and Modeling'
