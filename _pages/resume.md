@@ -80,4 +80,4 @@ Teaching
   
 Service and leadership
 ======
-* _Volunteer_ at [Table NC](https://tablenc.org/who-we-are/){:target='_blank'}, a non-profit organization which delivers healthy food and nutrition education to children in Orange County, NC.
+* __Volunteer__ at [Table NC](https://tablenc.org/who-we-are/){:target='_blank'}, _a non-profit organization which delivers healthy food and nutrition education to children in Orange County, NC_
