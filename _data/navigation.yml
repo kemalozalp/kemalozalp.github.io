@@ -18,8 +18,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "WoW"
-    url: /wow/
+  # - title: "WoW"
+  #   url: /wow/
     
   # - title: "Guide"
   #   url: /markdown/
