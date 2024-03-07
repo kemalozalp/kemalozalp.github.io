@@ -6,8 +6,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Publications"
     url: /publications/
@@ -16,7 +16,10 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "WoW"
+    url: /wow/
     
   # - title: "Guide"
   #   url: /markdown/
