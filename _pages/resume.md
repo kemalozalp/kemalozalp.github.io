@@ -48,7 +48,7 @@ Skills
 * __ML/AI:__ PyTorch &nbsp;&#124;&nbsp; scikit_learn &nbsp;&#124;&nbsp; dgl &nbsp;&#124;&nbsp; dgllife
 * __Cheminformatics:__ RDKit &nbsp;&#124;&nbsp; Chembl Structure Library &nbsp;&#124;&nbsp; ADMET modeling &nbsp;&#124;&nbsp; small and large molecule drug discovery &nbsp;&#124;&nbsp; hit-identification &nbsp;&#124;&nbsp; virtual screening
 
-Certificates and Specializations
+Certifications & Specializations
 ======
 * [__Introduction to Chemistry: Reactions and Ratios by Duke University on Coursera__](https://coursera.org/verify/J9YLGLPXVK9W){:target='_blank'}
 * [__Introduction to Chemistry: Structures and Solutions by Duke University on Coursera__](https://coursera.org/verify/Z4T7DHUH995B){:target='_blank'}
