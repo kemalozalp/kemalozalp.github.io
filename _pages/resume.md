@@ -51,9 +51,9 @@ Skills
 
 Certificates and Specializations
 ======
-* __Introduction to Chemistry - Reactions and Ratios:__ [Coursera Certificate](https://coursera.org/verify/J9YLGLPXVK9W){:target='_blank'}
-* __Introduction to Chemistry - Structures and Solutions:__ [Coursera Certificate](https://coursera.org/verify/Z4T7DHUH995B){:target='_blank'}
-* __Clinical Trials Operations:__ [Coursera Certificate](https://coursera.org/verify/specialization/2955H7UPVXBU){:target='_blank'}
+* [__Introduction to Chemistry: Reactions and Ratios by Duke University on Coursera__](https://coursera.org/verify/J9YLGLPXVK9W){:target='_blank'}
+* [__Introduction to Chemistry: Structures and Solutions by Duke University on Coursera__](https://coursera.org/verify/Z4T7DHUH995B){:target='_blank'}
+* [__Clinical Trials Operations by Johns Hopkins University on Coursera__](https://coursera.org/verify/specialization/2955H7UPVXBU){:target='_blank'}
 
 Awards
 ======
