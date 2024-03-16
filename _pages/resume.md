@@ -49,10 +49,11 @@ Skills
 * __Cheminformatics:__ RDKit &nbsp;&#124;&nbsp; Chembl Structure Library
 * __Drug Development:__ ADMET modeling &nbsp;&#124;&nbsp; small and large molecule drug discovery &nbsp;&#124;&nbsp; hit-identification &nbsp;&#124;&nbsp; virtual screening
 
-Certificates
+Certificates and Specializations
 ======
 * __Introduction to Chemistry - Reactions and Ratios:__ [Coursera Certificate](https://coursera.org/verify/J9YLGLPXVK9W){:target='_blank'}
 * __Introduction to Chemistry - Structures and Solutions:__ [Coursera Certificate](https://coursera.org/verify/Z4T7DHUH995B){:target='_blank'}
+* __Clinical Trials Operations:__ [Coursera Certificate](https://coursera.org/verify/specialization/2955H7UPVXBU){:target='_blank'}
 
 Awards
 ======
