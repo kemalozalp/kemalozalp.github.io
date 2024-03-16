@@ -43,21 +43,21 @@ _Ph.D. Research Assistant_
   
 Skills
 ======
-* __Programming:__ Python &#124; SQL &#124; Unix shell &#124; SLURM
-* __MLOps:__ Git, Data Version Control (DVC), Docker
-* __ML/AI:__ PyTorch, scikit_learn, dgl, dgllife
-* __Cheminformatics:__ RDKit, Chembl Structure Library
-* __Drug Development:__ ADMET modeling, small and large molecule drug discovery, hit-identification, virtual screening
+* __Programming:__ Python  &#124;  SQL  &#124;  Unix shell  &#124;  SLURM
+* __MLOps:__ Git  &#124;  Data Version Control (DVC)  &#124;  Docker
+* __ML/AI:__ PyTorch  &#124;  scikit_learn  &#124;  dgl  &#124;  dgllife
+* __Cheminformatics:__ RDKit  &#124;  Chembl Structure Library
+* __Drug Development:__ ADMET modeling  &#124;  small and large molecule drug discovery  &#124;  hit-identification  &#124;  virtual screening
 
 Awards
 ======
-* __Quick Thinking Award__ | Collaboration Pharmaceuticals\
+* __Quick Thinking Award__ &#124; Collaboration Pharmaceuticals\
 _For extinguishing fire at the workplace and saving company assets_
-* __ARPA Graduate Degree Completion Grant ($8,000)__ | UNC at Chapel Hill\
+* __ARPA Graduate Degree Completion Grant ($8,000)__ &#124; UNC at Chapel Hill\
 _Toward running experiments for a thesis chapter_
-* __L. I. Gilbert Grant ($1,500)__ | UNC at Chapel Hill\
+* __L. I. Gilbert Grant ($1,500)__ &#124; UNC at Chapel Hill\
 _To attend “Computational Principles to Organize Complexity” Summer School_
-* __Vehbi Koc Foundation Research Grant ($2,500)__ | Istanbul Technical University\
+* __Vehbi Koc Foundation Research Grant ($2,500)__ &#124; Istanbul Technical University\
 _Toward the conceptual design of a pulsed-jet underwater vehicle inspired by squids_
 
 Publications
