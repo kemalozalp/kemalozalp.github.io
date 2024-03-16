@@ -1,6 +1,6 @@
 ---
 title: "Healthcare Dashboard using Tableau"
-excerpt: "Healthcare Dashboard using Tableau<br/><img src='/images/hackerrank-sql.png'>"
+excerpt: "Healthcare Dashboard using Tableau<br/><img src='/images/healthcare_dashboard.png'>"
 collection: portfolio
 ---
 
