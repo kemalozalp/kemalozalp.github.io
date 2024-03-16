@@ -43,7 +43,7 @@ _Ph.D. Research Assistant_
   
 Skills
 ======
-* __Programming:__ Python | SQL | Unix shell | SLURM
+* __Programming:__ Python &#124; SQL &#124; Unix shell &#124; SLURM
 * __MLOps:__ Git, Data Version Control (DVC), Docker
 * __ML/AI:__ PyTorch, scikit_learn, dgl, dgllife
 * __Cheminformatics:__ RDKit, Chembl Structure Library
