@@ -43,11 +43,11 @@ _Ph.D. Research Assistant_
   
 Skills
 ======
-* __Programming:__ Python  &#124;  SQL  &#124;  Unix shell  &#124;  SLURM
-* __MLOps:__ Git  &#124;  Data Version Control (DVC)  &#124;  Docker
-* __ML/AI:__ PyTorch  &#124;  scikit_learn  &#124;  dgl  &#124;  dgllife
-* __Cheminformatics:__ RDKit  &#124;  Chembl Structure Library
-* __Drug Development:__ ADMET modeling  &#124;  small and large molecule drug discovery  &#124;  hit-identification  &#124;  virtual screening
+* __Programming:__ Python &nbsp;&#124;&nbsp; SQL &nbsp;&#124;&nbsp; Unix shell  &nbsp;&#124;&nbsp; SLURM
+* __MLOps:__ Git &nbsp;&#124;&nbsp; Data Version Control (DVC) &nbsp;&#124;&nbsp; Docker
+* __ML/AI:__ PyTorch &nbsp;&#124;&nbsp; scikit_learn &nbsp;&#124;&nbsp; dgl &nbsp;&#124;&nbsp; dgllife
+* __Cheminformatics:__ RDKit &nbsp;&#124;&nbsp; Chembl Structure Library
+* __Drug Development:__ ADMET modeling &nbsp;&#124;&nbsp; small and large molecule drug discovery &nbsp;&#124;&nbsp; hit-identification &nbsp;&#124;&nbsp; virtual screening
 
 Awards
 ======
