@@ -1,11 +1,13 @@
 ---
-title: "Dockerized SQL Database"
-excerpt: "Created and containerized a SQL database using Docker<br/><img src='/images/dockerized-sql-database.png'>"
+title: "A Solubility Model Web Applciation"
+excerpt: "A solubility classification model web application<br/><img src='/images/solubility-model.png'>"
 collection: portfolio
 ---
 
-This repo demonstrates creating a database using MySQL. This is not my original work except the containerazation of the repository. You can find the original work on the [Giraffe Academy website](https://www.giraffeacademy.com/databases/sql/company-database-intro/){:target='_blank'}. That being said, I created the entity relationship (ER) diagram and database schema on my own and added some original queries in addition to the ones given in the course.
+In this project, I train a solubility model and deploy it as a web app. I use data provided by Lowe et. al. (2023).
 
-In this example, you'll find how a database is created from a document describing the database requirements and entity relationships. From this document, I created the ER diagram and database schema. Based on the database schema, I created the tables and inserted information into the tables. Finally, I queried the database using MySQL. In addition to the queries given in the course, I added some original queries to demonstrate a few extra things.
+So far, I have trained a very simple and crude classification model around 0.001 M (or mol/L) cutoff value, meaning that compounds with solubility < 0.001 are insoluble. Model returns '0' for insoluble and '1' for soluble compounds. I used Python for training the model and Streamlit for building the web app. I was inspired by the tutorial and code from Data Professor and shared the link to his YouTube video in the references section.
 
-Finally, I created a Docker image to run database and query it on your own machine. Pleaes visit [my Github repo](https://github.com/kemalozalp/dockerized-SQL-database/blob/main/README.md) if you're interested in the code.
+What's next?
+
+The next step is to deploy the app using Flask or Heroku. Stay tuned!
